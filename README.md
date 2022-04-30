@@ -5,7 +5,7 @@ Generating new Pokemon with specified type combinations, based on ACGAN + DiffAu
 
 ## Dataset
 
-The used dataset can be downloaded from: [pokemon_images.zip](https://drive.google.com/file/d/1ZNBuTgFPD007Yvqq1GwrfwccFYdnLP2M/view?usp=sharing), with total 10,437 Pokemon sprites (half of them are shiny variants) in 96x96 resolution collected from 898 Pokemon in different games. Below are the collected images of Bulbaraur:
+The used dataset has been uploaded to [Kaggle](https://www.kaggle.com/datasets/yehongjiang/pokemon-sprites-images). It contains in total 10,437 Pokemon sprites (half of them are shiny variants) in 96x96 resolution collected from 898 Pokemon in different games. Below are the collected images of Bulbaraur:
 
 | Gen3 E                                                       | Gen3 E (Frame 2)                                             | Gen3 FL                                                      | Gen4 DP                                                      |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
