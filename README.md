@@ -36,4 +36,8 @@ For example, let’s create some fire fairies:
 
 and some electric ice-mon:
 
-![00253k-Electric+Dragon](./gen_results/00253k-Electric+Ice.png)
+![00253k-Electric+Ice](./gen_results/00253k-Electric+Ice.png)
+
+and some dark bugs (that we programmers hate):
+
+![00253k-Bug+Dark](./gen_results/00253k-Bug+Dark.png)
